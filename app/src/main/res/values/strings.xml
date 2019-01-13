@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Resepmau</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="user">Users</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_desc">You need to login first to use this app. If you dont have any account you can register</string>
+    <string name="register">Register</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="placeholder_email">Type your email</string>
+    <string name="placeholder_pass">Please type your password</string>
+    <string name="placeholder_login_act_desc">Uhm.. You need to login first</string>
+    <string name="login">Login</string>
+    <string name="placeholder_name">Insert your name</string>
+    <string name="placeholder_reg_act_desc">Please fill all forms</string>
+    <string name="placeholder_reg_act_desc_child">You need to fill all forms below to create an acoount. After that you need to login</string>
+    <string name="recipe">Recipe</string>
+    <string name="title_activity_upload">New recipe</string>
+    <string name="title_activity_detail">Detail of recipe</string>
+    <string name="placeholder_title">What food?</string>
+    <string name="placeholder_content">Write description</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="others">Lainnya</string>
+    <string name="title_activity_about">About</string>
+</resources>
